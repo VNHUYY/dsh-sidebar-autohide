@@ -1,0 +1,3 @@
+- insert:
+    - id: dsh-sidebar-autohide
+      name: '@local/dsh-sidebar-autohide'

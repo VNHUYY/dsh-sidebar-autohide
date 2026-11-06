@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Auto-hide sidebars",
+    "description": "Notion-style auto-hide for the left and right sidebars: hovering the matching window edge expands that sidebar and moving away collapses it; click a sidebar's toggle to pin that column open. Pins are remembered across reloads."
+  }
+}
