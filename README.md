@@ -11,16 +11,10 @@ Notion-style auto-hide for the DeepSeek Harness (DSH) Web UI sidebars.
 
 ## Install
 
-This package is a DSH client plugin bundle (`@local/dsh-sidebar-autohide`). Install it the same way as any local or git bundle:
+This package is a DSH client plugin bundle (`@local/dsh-sidebar-autohide`). Install it the same way as any local or git DSH bundle:
 
-1. In the DSH desktop app, open **Settings -> Plugins**, then install from a local directory or from this repository's git URL.
-2. Or, with the DSH CLI on your PATH:
-
-   ```sh
-   dsh plugin add github:<owner>/<repo>
-   ```
-
-   Replace `<owner>/<repo>` with this repository. The exact command depends on your DSH version.
+1. In the DSH desktop app, open **Settings -> Plugins** and install from this repository's git URL (or from a local checkout).
+2. Alternatively, point your DSH profile's plugin installation flow at `https://github.com/VNHUYY/dsh-sidebar-autohide`. The install command differs between DSH versions; the Plugin Manager UI is the simplest path.
 
 After installing, refresh the DSH window so the client bundle loads.
 
